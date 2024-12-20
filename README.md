@@ -1,0 +1,2 @@
+# array-code
+logical code
